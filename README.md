@@ -37,7 +37,7 @@ Lynda.com: Lynda.com is a popular online learning platform that offers a wide ra
 
 These portals can help you learn PHP from the comfort of your own home, at your own pace, and can help you improve your PHP skills and advance your career.
 
-Here are some useful Simple PHP Projects that students can work on to improve their skills:
+Here are some useful [Simple PHP Projects](https://takeoffprojects.com/simple-php-projects) that students can work on to improve their skills:
 
 •	Online Shopping Cart: Students can develop an online shopping cart application using PHP, which can allow users to browse products, add them to their cart, and check out.
 
@@ -55,8 +55,8 @@ Here are some useful Simple PHP Projects that students can work on to improve th
 
 •	Inventory Management System: Students can develop an inventory management system using PHP, which can allow businesses to track their inventory levels, manage stock, and generate reports.
 
-Simple PHP Projects: - https://takeoffprojects.com/simple-php-projects
+[Simple PHP Projects](https://takeoffprojects.com/simple-php-projects): - https://takeoffprojects.com/simple-php-projects
 
-These Simple PHP Projects can help students to apply their PHP skills to real-world applications and build a portfolio of projects to showcase to potential employers.
+These [Simple PHP Projects](https://takeoffprojects.com/simple-php-projects) can help students to apply their PHP skills to real-world applications and build a portfolio of projects to showcase to potential employers.
 
 Tags: php projects, simple php projects, php final year projects, php btech projects, php mtech projects, php engineering projects, php academic projects,
